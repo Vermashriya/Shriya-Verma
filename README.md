@@ -1,2 +1,3 @@
 # Shriya Verma
-This is my first Git Repository. Author-Shriya
+This is my first Git Repository. 
+Author-Shriya
